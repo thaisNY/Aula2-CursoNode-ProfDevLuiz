@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+#container{
+    width: 800px;
+    height: 500px;
+    background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#resultadoMedia{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+#resultadoMedia.erro {
+    background-color: red;
+}
+
